@@ -1,0 +1,10 @@
+body {
+    background-color: #eee;
+}
+
+.fondo {
+    height: 400px;
+    background-color: #cD23;
+    font-weight: bold;
+    font-size: 25px;
+}
